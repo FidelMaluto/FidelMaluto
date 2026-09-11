@@ -1,93 +1,78 @@
-<!--
-**FidelMaluto/FidelMaluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fidel Maluto
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Fidel Maluto 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-fidelmaluto.vercel.app-blue?style=for-the-badge&logo=vercel)](https://fidelmaluto.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Maluto-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fidelmaluto)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:fidel.maluto77@gmail.com)
 
-### Full-Stack Developer | Web & Software Development
-
-I’m a Full-Stack Developer focused on building modern, responsive and scalable web applications, REST APIs and software solutions.
-
-I enjoy turning ideas into functional software — from frontend interfaces and backend services to database architecture and API integration.
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 Full-Stack Developer | Software Engineer
 
-* 💻 Full-Stack Developer
-* 🌐 Focused on Web & Software Development
-* 🔧 Building REST APIs and full-stack applications
-* 🗄️ Working with relational and NoSQL databases
-* 📚 Continuously learning and improving
-* ⚙️ Currently expanding my expertise in ASP.NET and .NET
-* 🧠 Interested in software architecture, backend development and scalable systems
+Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escaláveis e de alto desempenho. Apaixonado por transformar requisitos complexos em sistemas funcionais — da arquitetura do banco de dados às interfaces responsivas.
+
+- 🇦🇴 Baseado em Luanda, Angola
+- 🔭 Atualmente desenvolvendo soluções em **Angular**, **ASP.NET Core** e **Supabase**
+- ⚡ Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-HTML5 • CSS3 • JavaScript • Angular • Bootstrap
+**Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### Backend
+**Databases & BaaS**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Node.js • Express.js • REST APIs • ASP.NET • .NET
-
-### Databases
-
-MySQL • MongoDB • PostgreSQL • Supabase
-
-### Tools & Technologies
-
-Git • GitHub • WebSocket • Socket.IO • SignalR • WebRTC
-
----
-
-## 📌 Featured Projects
-
-### SIETI
-
-A software solution focused on digitalizing and managing business processes through a modern web-based architecture.
-
-**Technologies:** React • TypeScript • Vite • Supabase
-
----
-
-### SGRH
-
-A human resources management solution designed to centralize employee and organizational information through a web application.
-
-**Focus:** Human Resources • Database Management • Authentication • Web Application
-
-
-## 📈 Current Focus
-
-Currently improving my knowledge in:
-
-* ASP.NET Core
-* .NET
-* C#
-* Software Architecture
-* Backend Development
-* API Design
-* Database Design
-* Scalable Web Applications
+**Real-Time & Dev Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Projetos em Destaque
 
-I’m open to connecting with developers, recruiters, companies and people interested in technology and software development.
+| Projeto | Descrição | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | React • TypeScript • Vite • Supabase | 🔗 |
+| **SGRH** | Sistema de Gestão de Recursos Humanos para centralização de dados, autenticação e controle organizacional. | ASP.NET Core • C# • PostgreSQL | 🔗 |
 
-**Portfolio:** fidelmaluto.vercel.app
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FidelMaluto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Fidel Maluto" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelMaluto&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="175"/>
+
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou sempre aberto a conexões com desenvolvedores, recrutadores e parcerias em projetos inovadores.
+
+- 🌐 Portfolio: [fidelmaluto.vercel.app](https://fidelmaluto.vercel.app)
+- 💬 Pergunte-me sobre: **Angular, .NET, Node.js e Modelagem de Dados**
