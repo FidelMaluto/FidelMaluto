@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FidelMaluto/FidelMaluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,22 +56,6 @@ Git • GitHub • WebSocket • Socket.IO • SignalR • WebRTC
 
 ## 📌 Featured Projects
 
-### ChatApp / ChatDy
-
-A full-stack real-time communication platform designed to provide users with messaging, channels, real-time interactions and communication features.
-
-**Technologies:** C# • ASP.NET Core • .NET • JavaScript • SignalR • WebRTC • Entity Framework • Database
-
----
-
-### EducaFácil
-
-A school management solution designed to organize and simplify academic and administrative processes through a centralized digital platform.
-
-**Focus:** School Management • Authentication • Data Management • Dashboards • Web Application
-
----
-
 ### SIETI
 
 A software solution focused on digitalizing and managing business processes through a modern web-based architecture.
@@ -88,15 +70,6 @@ A human resources management solution designed to centralize employee and organi
 
 **Focus:** Human Resources • Database Management • Authentication • Web Application
 
----
-
-### Turma-B Network Dashboard
-
-A network/dashboard project focused on real-time communication, data visualization and monitoring through a web-based interface.
-
-**Technologies:** Node.js • WebSocket • JavaScript • Chart.js
-
----
 
 ## 📈 Current Focus
 
