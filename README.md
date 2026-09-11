@@ -1,4 +1,4 @@
-# Fidel Maluto
+#                                               Fidel Maluto
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escaláveis e de alto desempenho. Apaixonado por transformar requisitos complexos em sistemas funcionais — da arquitetura do banco de dados às interfaces responsivas.
 
 - 🇦🇴 Baseado em Luanda, Angola
-- 🔭 Atualmente desenvolvendo soluções em **Angular**, **ASP.NET Core** e **Supabase**
+- 🔭 Atualmente desenvolvendo soluções em **Angular/React**, **ASP.NET Core** e **Nodejs**
 - ⚡ Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
 
 ---
@@ -54,8 +54,8 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | React • TypeScript • Vite • Supabase | 🔗 |
-| **SGRH** | Sistema de Gestão de Recursos Humanos para centralização de dados, autenticação e controle organizacional. | ASP.NET Core • C# • PostgreSQL | 🔗 |
+| **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 🔗 |
+| **SGRH** | Sistema de Gestão de Recursos Humanos para centralização de dados, autenticação e controle organizacional. | React • Node • PostgreSQL • Supabase | 🔗 |
 
 ---
 
