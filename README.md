@@ -1,4 +1,8 @@
-#                                               Fidel Maluto
+<div align="center">
+
+# Fidel Maluto
+
+</div>
 
 <div align="center">
 
@@ -74,4 +78,4 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 Estou sempre aberto a conexões com desenvolvedores, recrutadores e parcerias em projetos inovadores.
 
--  Podemos falar sobre: **Angular, .NET, Node.js e Modelagem de Dados**
+-  Podemos falar sobre: **Angular, .NET, Node.js, Modelagem de Dados e uma vaga é claro!**
