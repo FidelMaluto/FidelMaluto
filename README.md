@@ -14,7 +14,7 @@
 
 Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escaláveis e de alto desempenho. Apaixonado por transformar requisitos complexos em sistemas funcionais — da arquitetura do banco de dados às interfaces responsivas.
 
-- 🇦🇴 Baseado em Luanda, Angola
+- 🇦🇴 Baseado em Icolo e Bengo, Angola
 - 🔭 Atualmente desenvolvendo soluções em **Angular/React**, **ASP.NET Core** e **Nodejs**
 - ⚡ Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
 
@@ -74,5 +74,4 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 Estou sempre aberto a conexões com desenvolvedores, recrutadores e parcerias em projetos inovadores.
 
-- 🌐 Portfolio: [fidelmaluto.vercel.app](https://fidelmaluto.vercel.app)
-- 💬 Pergunte-me sobre: **Angular, .NET, Node.js e Modelagem de Dados**
+- 💬 Podemos falar sobre: **Angular, .NET, Node.js e Modelagem de Dados**
