@@ -10,17 +10,17 @@
 
 ---
 
-### 🚀 Full-Stack Developer | Software Engineer
+###  Full-Stack Developer | Software Engineer
 
 Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escaláveis e de alto desempenho. Apaixonado por transformar requisitos complexos em sistemas funcionais — da arquitetura do banco de dados às interfaces responsivas.
 
 - 🇦🇴 Baseado em Icolo e Bengo, Angola
-- 🔭 Atualmente desenvolvendo soluções em **Angular/React**, **ASP.NET Core** e **Nodejs**
-- ⚡ Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
+-  Atualmente desenvolvendo soluções em **Angular/React**, **ASP.NET Core** e **Nodejs**
+-  Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,16 +50,16 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 ---
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 🔗 |
-| **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | React • Node • PostgreSQL • Supabase | 🔗 |
+| **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 
+| **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | React • Node • PostgreSQL • Supabase | 
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -70,8 +70,8 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 ---
 
-## 🤝 Pense no que podemos construir juntos!!!
+##  Pense no que podemos construir juntos!!!
 
 Estou sempre aberto a conexões com desenvolvedores, recrutadores e parcerias em projetos inovadores.
 
-- 💬 Podemos falar sobre: **Angular, .NET, Node.js e Modelagem de Dados**
+-  Podemos falar sobre: **Angular, .NET, Node.js e Modelagem de Dados**
