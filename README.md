@@ -55,7 +55,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 🔗 |
-| **SGRH** | Sistema de Gestão de Recursos Humanos para centralização de dados, autenticação e controle organizacional. | React • Node • PostgreSQL • Supabase | 🔗 |
+| **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | React • Node • PostgreSQL • Supabase | 🔗 |
 
 ---
 
@@ -70,7 +70,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Pense no que podemos construir juntos!!!
 
 Estou sempre aberto a conexões com desenvolvedores, recrutadores e parcerias em projetos inovadores.
 
