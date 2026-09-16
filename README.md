@@ -72,7 +72,8 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 <br/>
 
-
+<!-- Gráfico de Atividade e Sequência de Commits -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FidelMaluto&theme=react-dark&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
 </div>
 ---
 
