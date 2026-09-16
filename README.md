@@ -68,7 +68,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FidelMaluto&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FidelMaluto&theme=radical&hide_border=true" alt="Sequência de Commits" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelMaluto&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Linguagens mais usadas" height="175"/>
 
 </div>
