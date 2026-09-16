@@ -74,6 +74,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 
 <!-- Troféus de Contribuição e Tecnologias do GitHub -->
 <img src="https://github-profile-trophy.vercel.app/?username=FidelMaluto&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelMaluto&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="175"/>
 
 </div>
 ---
