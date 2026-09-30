@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ###  Full-Stack Developer | Software Engineer
 
 Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escaláveis e de alto desempenho. Apaixonado por transformar requisitos complexos em sistemas funcionais — da arquitetura do banco de dados às interfaces responsivas.
@@ -21,8 +19,6 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 - 🇦🇴 Baseado em Icolo e Bengo, Angola
 -  Atualmente desenvolvendo soluções em **Angular/React**, **ASP.NET Core** e **Nodejs**
 -  Interesses principais: Arquitetura de Software, Sistemas Distribuídos e Web Sockets / Comunicação em Tempo Real
-
----
 
 ##  Tech Stack
 
@@ -53,16 +49,12 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
----
-
 ##  Projetos em Destaque
 
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 
 | **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | React • Node • PostgreSQL • Supabase | 
-
----
 
 ##  Estatísticas do GitHub
 
@@ -71,7 +63,6 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FidelMaluto&theme=radical&hide_border=true" alt="Sequência de Commits" height="175"/>
 
 </div>
----
 
 ##  Pense no que podemos construir juntos!!!
 
