@@ -54,7 +54,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações web modernas, escal
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **SIETI** | Plataforma para digitalização e gestão integrada de processos empresariais. | PHP • JavaScript • MySQL | 
-| **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | React • Node • PostgreSQL • Supabase | 
+| **Baixar-musica** | Site de reprodução e downloader de músicas via stream (Ainda em desenvolvimento). | JavaScript • Node • HTML • CSS | 
 
 ##  Estatísticas do GitHub
 
